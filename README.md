@@ -1,6 +1,6 @@
 
 # Tugas 2
-Aplikasi Penghitung Umur
+Aplikasi Konversi Suhu
 - Nama : Haykal Eka Putra Gultom
 - NPM : 2310010701
 - Kelas : 5A
